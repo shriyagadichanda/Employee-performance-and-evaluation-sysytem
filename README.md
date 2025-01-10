@@ -51,13 +51,13 @@ This project aligns individual employee goals with organizational objectives, bo
 - Multi-language support for global scalability.
 - Enhanced user interface for accessibility.
 
-git add README.md
-git commit -m "Added README file"
-git push origin main
-
 ---
 
 📎 References
 - [AWS](https://aws.amazon.com)
 - [Microsoft Azure](https://azure.microsoft.com)
 - [Google Cloud](https://cloud.google.com)
+
+git add README.md
+git commit -m "Added README file"
+git push origin main
